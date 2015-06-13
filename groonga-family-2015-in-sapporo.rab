@@ -186,10 +186,19 @@ Groongaを理解した気分になる
 
 = まとめ
 
+  * ((*(('del:Groongaとは'))*))
+  * ((*(('del:Groonga族の紹介'))*))
+  * ((*(('del:Groongaイベントの紹介'))*))
+
+= まとめ
+
+  * 検索対象が増えて遅くなったと感じたら全文検索エンジンの検討をおすすめ
+  * Groongaはいろいろな場面でいろいろな使い方ができる
+  * コミュニティもあるよ
+
 = 参考
 
 * Groonga族2013
   * (('note:http://slide.rabbit-shocker.org/authors/kou/groonga-night-4/'))
-
 * Groonga族2014
   * (('note:http://slide.rabbit-shocker.org/authors/kou/groonga-night-5/'))
