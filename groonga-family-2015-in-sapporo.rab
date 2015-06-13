@@ -70,19 +70,78 @@ Groongaを理解した気分になる
   * Groongaは自分でストレージを持っている
     * ストレージを持たない全文検索エンジンもある
 
-= Groonga
+= 内容
 
-= Mroonga
+  * (('del:Groongaとは'))
+  * ((*Groonga族の紹介*))
+  * Groongaイベントの紹介
 
-= Nroonga
+= 主なGroonga族
 
-= Rroonga
+    # image
+    # src = images/groonga-logos.png
+    # relative_width = 90
 
-= Droonga
+= (('tag:groonga:G'))roonga
 
-= PGroonga
+  * C言語のライブラリー
+  * コマンドラインやHTTPクエリーのインターフェイス
+  * 毎月肉の日リリース
+  * (('note:https://vimeo.com/54852941'))
+
+= (('tag:mroonga:M'))roonga
+
+  * MySQLのストレージエンジン
+  * SQLで全文検索、位置情報検索
+  * 毎月肉リリース
+  * (('note:http://www.slideshare.net/Kentoku/mroonga-20131129'))
+
+= (('tag:nroonga:N'))roonga
+
+  * Node.jsバインディング
+  * クエリーのAPIを提供
+  * Buzztter
+    * (('note:https://speakerdeck.com/dara/nroonga-groonga-api'))
+
+= (('tag:rroonga:R'))roonga
+
+  * Rubyバインディング
+  * DB API層のライブラリー
+    * クエリーよりも細かい操作が可能
+  * Groongaの追っかけリリース
+
+= (('tag:droonga:D'))roonga
+
+  * Distributedの"D"
+  * 分散型全文検索エンジン
+  * (('note:http://droonga.org/ja/'))
+  * Sharetary
+    * (('note:https://github.com/clear-code/sharetary'))
+
+= (('tag:pgroonga:PG'))roonga
+
+    # blockquote
+    # title = "https://github.com/pgroonga/pgroonga"
+    PGroongaはPostgreSQLからインデックスとして Groongaを使うための拡張機能です。
+
+= (('tag:pgroonga:PG'))roonga
+
+    # blockquote
+    # title = "https://github.com/pgroonga/pgroonga"
+    PostgreSQLは標準では日本語で全文検索できませんが、PGroongaを使うと日本 語で高速に全文検索できるようになります。
+
+= (('tag:pgroonga:PG'))roonga
+
+  * PostgreSQLで日本語全文検索
+    * LIKEとpg_bigmとPGroongaの比較
+    * (('note:http://slide.rabbit-shocker.org/authors/kou/postgresql-unconference-tokyo-2015/'))
 
 = まだまだいるよ
+
+  * 関連プロジェクト
+    * (('note:http://groonga.org/ja/related-projects.html'))
+  * 利用者のみなさん
+    * (('http://groonga.org/ja/users/'))
 
 = まとめ
 
