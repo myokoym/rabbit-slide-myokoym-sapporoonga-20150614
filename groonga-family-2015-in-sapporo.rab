@@ -93,8 +93,8 @@ Groongaを理解した気分になる
 
   * MySQLのストレージエンジン
   * SQLで全文検索、位置情報検索
-  * 毎月肉リリース
   * (('note:http://www.slideshare.net/Kentoku/mroonga-20131129'))
+  * (('note:http://slide.rabbit-shocker.org/authors/kou/osc-2014-tokyo-fall/'))
 
 = (('tag:nroonga:N'))roonga
 
