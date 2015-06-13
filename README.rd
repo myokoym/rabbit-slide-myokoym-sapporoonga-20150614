@@ -1,6 +1,6 @@
-= TODO: スライドのタイトル
+= Groonga族2015 in 札幌
 
-TODO: スライドの説明
+Groongaを知った気になるための資料
 
 == 作者向け
 
@@ -22,3 +22,12 @@ TODO: スライドの説明
 
   rabbit rabbit-slide-myokoym-sapporoonga-20150614.gem
 
+== 画像のクレジット
+
+  * groonga-logos.png
+    * (c) Groongaプロジェクト
+    * (c) Mroongaプロジェクト
+    * (c) PGroongaプロジェクト
+    * (c) Rangubaプロジェクト
+    * (c) Nroongaプロジェクト
+    * (c) Droongaプロジェクト
