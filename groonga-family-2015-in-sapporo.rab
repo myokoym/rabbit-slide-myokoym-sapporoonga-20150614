@@ -119,7 +119,8 @@ Groongaを理解した気分になる
   * Rubyバインディング
   * DB API層のライブラリー
     * クエリーよりも細かい操作が可能
-  * Groongaの追っかけリリース
+    * サーバー不要
+    * SQLiteのような感じで使える
 
 = (('tag:droonga:D'))roonga
 
