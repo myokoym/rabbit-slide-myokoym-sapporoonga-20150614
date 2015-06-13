@@ -15,14 +15,25 @@
 : theme
    groonga
 
-= 最初のスライド
+= 内容
 
-  * 項目1
-  * 項目2
-  * 項目3
+  * Groongaとは
+  * Groonga族の紹介
 
-= 二番目のスライド
+= Groongaとは
 
-  # image
-  # src = https://raw.github.com/rabbit-shocker/rabbit/master/sample/lavie.png
-  # relative_height = 100
+= Groonga
+
+= Mroonga
+
+= Nroonga
+
+= Rroonga
+
+= Droonga
+
+= PGroonga
+
+= まだまだいるよ
+
+= まとめ
