@@ -1,10 +1,12 @@
 ---
 id: sapporoonga-20150614
 base_name: groonga-family-2015-in-sapporo
-tags: []
-presentation_date: 
-version: 1.0.0
-licenses: []
+tags:
+- rabbit
+- groonga
+presentation_date: 2015-06-14
+version: 2015.6.14.0
+licenses: CC BY-SA 4.0
 slideshare_id: 
 speaker_deck_id: 
 ustream_id: 
